@@ -21,28 +21,28 @@ const slides = [
     title: "Virtual Tour",
     description: "Walk through the house in an immersive 360° experience.",
     image: "/cards/tour.jpg",
-    href: "/virtual-tour",
+    href: "https://my.matterport.com/show/?m=rUWyUPkBTgF",
   },
   {
     eyebrow: "VISIT",
     title: "Booking",
     description: "Reserve your visit and experience the house in person.",
     image: "/cards/booking.jpg",
-    href: "/booking",
+    href: "https://houseofantiques.github.io/Booking-/",
   },
   {
     eyebrow: "MEDIA",
     title: "Press",
     description: "Read stories, features, and media coverage.",
     image: "/cards/press.jpg",
-    href: "/press",
+    href: "https://www.houseof-antiques.com/press",
   },
   {
     eyebrow: "MENU",
     title: "Menu",
     description: "Explore the hospitality side of the experience.",
     image: "/cards/menu.jpg",
-    href: "/menu",
+    href: "https://hoa-menu.vercel.app/",
   },
 ];
 export default function Home() {
